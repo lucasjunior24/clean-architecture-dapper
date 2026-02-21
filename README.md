@@ -1,11 +1,16 @@
-﻿🧱 Estrutura da Clean Architecture
+﻿#🧱 Estrutura da Clean Architecture
+
 
 DapperCrudClean/
-│
+|
 ├── DapperCrudClean.Api
+|
 ├── DapperCrudClean.Application
+|
 ├── DapperCrudClean.Domain
+|
 └── DapperCrudClean.Infrastructure
+|
 └── DapperCrudClean.Tests
 
 

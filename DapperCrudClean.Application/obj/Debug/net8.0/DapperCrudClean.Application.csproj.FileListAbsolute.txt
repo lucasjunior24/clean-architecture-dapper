@@ -1,0 +1,15 @@
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Application\bin\Debug\net8.0\DapperCrudClean.Application.deps.json
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Application\bin\Debug\net8.0\DapperCrudClean.Application.dll
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Application\bin\Debug\net8.0\DapperCrudClean.Application.pdb
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Application\bin\Debug\net8.0\DapperCrudClean.Domain.dll
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Application\bin\Debug\net8.0\DapperCrudClean.Domain.pdb
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Application\obj\Debug\net8.0\DapperCrudClean.Application.csproj.AssemblyReference.cache
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Application\obj\Debug\net8.0\DapperCrudClean.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Application\obj\Debug\net8.0\DapperCrudClean.Application.AssemblyInfoInputs.cache
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Application\obj\Debug\net8.0\DapperCrudClean.Application.AssemblyInfo.cs
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Application\obj\Debug\net8.0\DapperCrudClean.Application.csproj.CoreCompileInputs.cache
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Application\obj\Debug\net8.0\DapperCr.00DAC04C.Up2Date
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Application\obj\Debug\net8.0\DapperCrudClean.Application.dll
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Application\obj\Debug\net8.0\refint\DapperCrudClean.Application.dll
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Application\obj\Debug\net8.0\DapperCrudClean.Application.pdb
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Application\obj\Debug\net8.0\ref\DapperCrudClean.Application.dll

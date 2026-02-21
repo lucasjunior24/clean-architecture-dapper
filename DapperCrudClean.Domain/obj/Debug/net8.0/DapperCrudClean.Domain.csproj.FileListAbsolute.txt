@@ -1,0 +1,11 @@
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Domain\bin\Debug\net8.0\DapperCrudClean.Domain.deps.json
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Domain\bin\Debug\net8.0\DapperCrudClean.Domain.dll
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Domain\bin\Debug\net8.0\DapperCrudClean.Domain.pdb
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Domain\obj\Debug\net8.0\DapperCrudClean.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Domain\obj\Debug\net8.0\DapperCrudClean.Domain.AssemblyInfoInputs.cache
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Domain\obj\Debug\net8.0\DapperCrudClean.Domain.AssemblyInfo.cs
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Domain\obj\Debug\net8.0\DapperCrudClean.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Domain\obj\Debug\net8.0\DapperCrudClean.Domain.dll
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Domain\obj\Debug\net8.0\refint\DapperCrudClean.Domain.dll
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Domain\obj\Debug\net8.0\DapperCrudClean.Domain.pdb
+C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Domain\obj\Debug\net8.0\ref\DapperCrudClean.Domain.dll

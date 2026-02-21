@@ -1,13 +1,13 @@
 ﻿🧱 Estrutura da Clean Architecture
 
-
+```
 DapperCrudClean/
 ├── DapperCrudClean.Api
 ├── DapperCrudClean.Application
 ├── DapperCrudClean.Domain
 ├─ DapperCrudClean.Infrastructure
 └── DapperCrudClean.Tests
-
+```
 
 
 📌 1️⃣ Regra de Dependência (Inward Dependency)
@@ -21,7 +21,9 @@ mas camadas internas nunca dependem das externas.
 
 Estrutura típica:
 
+```
 API → Infrastructure → Application → Domain
+```
 
 Domain não depende de ninguém.
 Application depende apenas de Domain.
@@ -66,8 +68,10 @@ Isso é SOLID na prática.
 Porque Infrastructure implementa as interfaces definidas na Application.
 
 Exemplo:
-
+```
 public class ProductRepository : IProductRepository
+
+```
 
 IProductRepository está na Application.
 Então Infrastructure precisa conhecê-la para implementar.
@@ -103,8 +107,9 @@ public class ProductRepositoryPostgres : IProductRepository
 Trocar a connection string
 
 Registrar no DI:
-
+```
 builder.Services.AddScoped<IProductRepository, ProductRepositoryPostgres>();
+```
 
 E pronto.
 

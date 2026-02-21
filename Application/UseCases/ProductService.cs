@@ -14,7 +14,7 @@ public class ProductService
 
     public async Task<IEnumerable<Product>> GetAll()
     {
-        var data =  await _repository.GetAllAsync();
+        var data = await _repository.GetAllAsync();
         return data;
         
     }

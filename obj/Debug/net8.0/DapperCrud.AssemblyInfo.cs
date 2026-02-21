@@ -14,11 +14,10 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DapperCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bee4506fb052926fffda94afd02219d579191b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("DapperCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DapperCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyMetadata("Microsoft.Testing.Platform.Application", "true")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 

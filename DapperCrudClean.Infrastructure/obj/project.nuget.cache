@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zZH+0yZku0XFXBV2YmAz0ibxJrzGSZk+/bXVM9Rh7MZSX+HncZrAb4V/DIsE5LFlpE83/k938S/xhxgIXcDI8w==",
+  "dgSpecHash": "nSPzwK1CQP88Y+JhZd/kctZeczTLEnQMCiiCUEFvD0l03VULvZvinTakhvor0+4SIvzmQnxjHFaDlRRH42EIpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Souza\\Documents\\estudos\\csharp\\2026\\projects\\DapperCrudClean\\DapperCrudClean.Infrastructure\\DapperCrudClean.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Souza\\Documents\\estudos\\csharp\\2026\\projects\\clean-architecture-dapper\\DapperCrudClean.Infrastructure\\DapperCrudClean.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Souza\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\Souza\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",

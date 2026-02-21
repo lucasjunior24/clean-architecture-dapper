@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Souza\\Documents\\estudos\\csharp\\2026\\projects\\DapperCrudClean\\DapperCrudClean.Domain\\DapperCrudClean.Domain.csproj": {}
+    "C:\\Users\\Souza\\Documents\\estudos\\csharp\\2026\\projects\\clean-architecture-dapper\\DapperCrudClean.Domain\\DapperCrudClean.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Souza\\Documents\\estudos\\csharp\\2026\\projects\\DapperCrudClean\\DapperCrudClean.Domain\\DapperCrudClean.Domain.csproj": {
+    "C:\\Users\\Souza\\Documents\\estudos\\csharp\\2026\\projects\\clean-architecture-dapper\\DapperCrudClean.Domain\\DapperCrudClean.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Souza\\Documents\\estudos\\csharp\\2026\\projects\\DapperCrudClean\\DapperCrudClean.Domain\\DapperCrudClean.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Souza\\Documents\\estudos\\csharp\\2026\\projects\\clean-architecture-dapper\\DapperCrudClean.Domain\\DapperCrudClean.Domain.csproj",
         "projectName": "DapperCrudClean.Domain",
-        "projectPath": "C:\\Users\\Souza\\Documents\\estudos\\csharp\\2026\\projects\\DapperCrudClean\\DapperCrudClean.Domain\\DapperCrudClean.Domain.csproj",
+        "projectPath": "C:\\Users\\Souza\\Documents\\estudos\\csharp\\2026\\projects\\clean-architecture-dapper\\DapperCrudClean.Domain\\DapperCrudClean.Domain.csproj",
         "packagesPath": "C:\\Users\\Souza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Souza\\Documents\\estudos\\csharp\\2026\\projects\\DapperCrudClean\\DapperCrudClean.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Souza\\Documents\\estudos\\csharp\\2026\\projects\\clean-architecture-dapper\\DapperCrudClean.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Souza\\AppData\\Roaming\\NuGet\\NuGet.Config",

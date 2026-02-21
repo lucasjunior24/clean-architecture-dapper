@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DapperCrudClean.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79b3c8f63212a6077a1dd1f5ad84dd755d204d12")]
 [assembly: System.Reflection.AssemblyProductAttribute("DapperCrudClean.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DapperCrudClean.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DapperCrudClean.Infrastructure
-build_property.ProjectDir = C:\Users\Souza\Documents\estudos\csharp\2026\projects\DapperCrudClean\DapperCrudClean.Infrastructure\
+build_property.ProjectDir = C:\Users\Souza\Documents\estudos\csharp\2026\projects\clean-architecture-dapper\DapperCrudClean.Infrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

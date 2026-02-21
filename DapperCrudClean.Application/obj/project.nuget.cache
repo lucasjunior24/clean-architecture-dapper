@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ho+wvYtgNAF5XAMHxDr/rAYsirvEdlg+LhtxEX0MkQYd9U6SZKISQrIcZgi0Oq79Pn1I3A7EN++UBYQ9MnUgWw==",
+  "dgSpecHash": "WZ6dMj3+sdc5LaxDZGzONK0n70DEn7r9HMvvPzEFruHFrYeMk6LFkVgg2tdorKIMcfmJigTe3wAL0EBYU1pz4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Souza\\Documents\\estudos\\csharp\\2026\\projects\\DapperCrudClean\\DapperCrudClean.Application\\DapperCrudClean.Application.csproj",
+  "projectFilePath": "C:\\Users\\Souza\\Documents\\estudos\\csharp\\2026\\projects\\clean-architecture-dapper\\DapperCrudClean.Application\\DapperCrudClean.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

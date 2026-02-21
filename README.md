@@ -1,16 +1,16 @@
-﻿🧱 Estrutura da Clean Architecture
+﻿# Clean Architecture
 
 ```
 DapperCrudClean/
 ├── DapperCrudClean.Api
 ├── DapperCrudClean.Application
 ├── DapperCrudClean.Domain
-├─ DapperCrudClean.Infrastructure
+├── DapperCrudClean.Infrastructure
 └── DapperCrudClean.Tests
 ```
 
 
-📌 1️⃣ Regra de Dependência (Inward Dependency)
+## Regra de Dependência (Inward Dependency) - 1
 
 Na Clean Architecture, as dependências sempre apontam para dentro.
 
@@ -40,7 +40,7 @@ Facilidade de substituição de tecnologia
 Isso é o que o Robert C. Martin define na Clean Architecture.
 
 
-📌 2️⃣ Por que Application NÃO conhece Dapper?
+## Por que Application NÃO conhece Dapper? - 2
 
 Porque Dapper é detalhe de infraestrutura.
 
@@ -63,7 +63,7 @@ Application depende de abstração, não de implementação.
 Isso é SOLID na prática.
 
 
-📌 3️⃣ Por que Infrastructure depende de Application?
+## Por que Infrastructure depende de Application? - 3
 
 Porque Infrastructure implementa as interfaces definidas na Application.
 
@@ -86,7 +86,7 @@ API injeta via DI
 Isso é o Dependency Inversion Principle funcionando corretamente.
 
 
-📌 4️⃣ Como trocar SQL Server por PostgreSQL sem mexer no domínio?
+## Como trocar SQL Server por PostgreSQL sem mexer no domínio? - 4
 
 Hoje usamos:
 
@@ -101,9 +101,9 @@ Npgsql
 Eu só preciso:
 
 Criar nova implementação:
-
-public class ProductRepositoryPostgres : IProductRepository
-
+```
+public class ProductRepositoryPostgres : IProductRepository 
+```
 Trocar a connection string
 
 Registrar no DI:
